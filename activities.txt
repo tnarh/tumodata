@@ -1,285 +1,143 @@
 0: {activityid: 'EE2C6C8B-E49B-4BF2-8CA2-CDBC02AB158B', text: ' Overshoot and Settle', type: 'animation'}
-
 1: {activityid: 'C0790A25-8109-4428-A95E-7BE68B383AE9', text: 'Level 1:  Photography Genres', type: 'photography'}
-
 2: {activityid: '21912988-C0B8-499E-8253-D9AAA659FAF5', text: 'Level 1:  Drawing a Face', type: 'drawing'}
-
 3: {activityid: 'CB98A8FC-EED5-4DC7-A166-7527E26A7E8B', text: ' 3D Painting', type: '3d-modeling'}
-
 4: {activityid: '2A47836E-3E19-4C1A-8320-945096E53EFC', text: ' Anticipation', type: 'animation'}
-
 5: {activityid: 'A39AC856-0A99-4FB4-A877-303B53A6E07D', text: 'Level 1:  Playing with Color', type: 'drawing'}
-
 6: {activityid: '06D52939-80C6-4D4E-86B7-2E2A2B96A12E', text: ' Editing for Film', type: 'filmmaking'}
-
 7: {activityid: 'D1B371E6-6F6E-4FF2-B31E-7311158F2CE5', text: ' Think. Create.', type: 'filmmaking'}
-
 8: {activityid: '077DE6F2-0CFB-4A47-B519-7C2036D1096D', text: 'Level 2:  Video Game Stories', type: 'game-development'}
-
 9: {activityid: '361764E3-1975-4232-A341-FC938FF01FDA', text: 'Level 2:  Dialog in Games', type: 'game-development'}
-
 10: {activityid: '4302DAD6-DA26-41FB-AFD5-3174991EB800', text: ' Sound & Music', type: 'filmmaking'}
-
 11: {activityid: '99C0BBC5-CD01-48C5-963A-C2D47604F1EA', text: ' Lyrics of a Song', type: 'music'}
-
 12: {activityid: '43FD0412-169A-413E-891C-19C99EA155F3', text: 'Level 1:  Photo Series', type: 'photography'}
-
 13: {activityid: '043C9147-D7D3-427F-B876-39BF399C0985', text: ' Construct a Shot', type: 'filmmaking'}
-
 14: {activityid: '5BCFF59A-2342-4910-BEC5-E06425E2ED73', text: ' Construct a Master', type: 'music'}
-
 15: {activityid: '9C558693-D5E2-47C9-9622-C415C9A26AE4', text: ' Construct a Pixilation', type: 'animation'}
-
 16: {activityid: '0365198D-4A43-491C-AB94-CE7DA9B1D257', text: ' One More Shot', type: 'filmmaking'}
-
 17: {activityid: 'F00E4389-5218-444F-96B0-69AA57193A25', text: 'Level 2:  Stats & Triggers', type: 'game-development'}
-
 18: {activityid: 'DE226E45-7CB1-4F20-8056-DC50798CEE51', text: ' Staging Animation', type: 'animation'}
-
 19: {activityid: 'ABDF05A0-26A6-4D41-B58F-1C71983F5F09', text: 'Level 2:  Appeal', type: 'animation'}
-
 20: {activityid: '28259315-C272-4A1E-AB82-B946C9AC01F8', text: ' Weight', type: 'animation'}
-
 21: {activityid: 'C4EE32CE-D42A-49AA-8AC7-46242184D4D4', text: ' Body in Motion', type: 'drawing'}
-
 22: {activityid: '51A527B8-8F4A-4B3A-A9FE-16070B25655D', text: ' Illustrated Stories', type: 'drawing'}
-
 23: {activityid: '80C5A035-8D41-4865-9074-328E1EA4ED90', text: ' Next Steps in 3D', type: '3d-modeling'}
-
 24: {activityid: '5EE9D26A-6C18-4940-A34B-A43D84A48477', text: 'Level 2:  Digital Sculpting', type: '3d-modeling'}
-
 25: {activityid: '192A4B6E-CC21-46C7-A847-6A810470B122', text: ' Lighting 3D Models', type: '3d-modeling'}
-
 26: {activityid: '6A28BA87-3B02-47A0-9CE7-86BB48A237E2', text: 'Level 2:  Creating a Strong Pose', type: 'animation'}
-
 27: {activityid: '99A53424-2103-4828-B283-09C03CBADC0F', text: 'Level 2:  Exaggeration', type: 'animation'}
-
 28: {activityid: '552F2904-161C-4458-9270-7301D7F014A2', text: " Let's Animate", type: 'animation'}
-
 29: {activityid: '24F3FF4D-A0F2-4B88-B19E-C4F96EFF4353', text: 'Level 2:  Light and Shadow', type: 'drawing'}
-
 30: {activityid: '4315F17B-614E-4142-BC34-5D96A91C25F2', text: ' Facial Expressions', type: 'drawing'}
-
 31: {activityid: 'D7D2FC9A-83D9-44C2-80B0-051ADD1E506D', text: ' Materiality', type: 'drawing'}
-
 32: {activityid: 'AF161C6B-5D3E-4432-AF10-327A68638FB9', text: 'Level 2:  Grids & Layouts', type: 'graphic-design'}
-
 33: {activityid: 'C40FB4D7-DE74-47B3-8053-AB95358B607C', text: ' App Interface', type: 'graphic-design'}
-
 34: {activityid: '709A1D3D-10AD-499C-BB5C-070959AD33C6', text: ' TUMO Phone', type: 'graphic-design'}
-
 35: {activityid: '9DA0510D-59C1-4BAE-A4CD-2DACBE353735', text: 'Level 2:  Composing Photos', type: 'photography'}
-
 36: {activityid: '49ABF495-3117-499E-A093-913785BD9551', text: 'Level 2:  Color + Photography', type: 'photography'}
-
 37: {activityid: '41BF8294-C7F3-4B38-8154-6790194651B2', text: 'Level 2:  Environments', type: 'drawing'}
-
 38: {activityid: '1E0A09D6-27D6-4415-944D-7E10F546B50D', text: 'Level 2:  Composition in Illustration', type: 'drawing'}
-
 39: {activityid: '3F23815B-0E46-4B75-9A35-556E16758738', text: ' Illustration Types', type: 'drawing'}
-
 40: {activityid: 'F32EBD4B-C1C5-43DB-A6AF-D882E0187298', text: 'Level 2:  Logo Design', type: 'graphic-design'}
-
 41: {activityid: '3C7F8D09-0E95-4244-AB45-677ECFD16DE6', text: ' Designing Ideas', type: 'graphic-design'}
-
 42: {activityid: 'E63D3BDB-4A68-477D-BA43-E99BBB38B016', text: ' Brand Identity', type: 'graphic-design'}
-
 43: {activityid: '4F35278A-0865-4E50-8B7F-2713E4161785', text: ' Shapes and Sculpting', type: '3d-modeling'}
-
 44: {activityid: '63D84E3A-CF35-4ACE-B797-5F437FEB22F3', text: 'Level 2:  Masking', type: '3d-modeling'}
-
 45: {activityid: '2EC7605A-8809-4DD0-9515-C88F31B5BCCE', text: ' Organic Modeling', type: '3d-modeling'}
-
 46: {activityid: 'F369C9D8-3BAE-4C5F-85D2-5590C247A5E8', text: ' QTE', type: 'game-development'}
-
 47: {activityid: 'BD3D1900-05DB-419E-BB35-912AC1B93F3E', text: ' Acting in Animation', type: 'animation'}
-
 48: {activityid: '92EFE07D-FA86-4E84-8354-711AFFE01EA8', text: ' Design Time', type: 'graphic-design'}
-
 49: {activityid: 'BDA0DE71-2850-4B43-9572-31F18332AFC7', text: 'Level 2:  Brushes and 3D Sculpting', type: '3d-modeling'}
-
 50: {activityid: '4FC3E5D5-EC95-4CB9-A4A9-1E2528C82E59', text: 'Level 2:  Street Photography', type: 'photography'}
-
 51: {activityid: '351A20C5-256D-407A-A229-028CEF5E032E', text: ' Photo Stories', type: 'photography'}
-
 52: {activityid: 'A5129B84-2F07-4F11-9BDD-ADAC21FB6975', text: ' Power On', type: 'robotics'}
-
 53: {activityid: 'AE4CE694-B40C-443E-B00C-D54A9C3C0EE5', text: 'Level 2:  Problem Solving', type: 'robotics'}
-
 54: {activityid: '81C5492C-479B-441F-B14D-6807009B0B6C', text: " What's a Calliope?", type: 'robotics'}
-
 55: {activityid: 'A34AE876-B97B-468A-ABA0-3DB0FE1913CD', text: ' Programming Electronics', type: 'robotics'}
-
 56: {activityid: '2BA40A30-AA97-4940-8118-24708FE41435', text: ' Electronic System Design', type: 'robotics'}
-
 57: {activityid: '708D3AC7-47EE-4624-AE89-13929E15DCCC', text: ' Construct a Building', type: '3d-modeling'}
-
 58: {activityid: '8DE312F7-8240-4CAB-9793-7C4E2DEA5719', text: 'Level 2:  Simulate a Bot - Basics', type: 'robotics'}
-
 59: {activityid: '9D5DDED8-7B7C-4405-8FE1-827CA65705BF', text: 'Level 2:  Simulate a Bot - Advanced', type: 'robotics'}
-
 60: {activityid: '5E3C706E-55C2-4A78-8C10-C2A3FF9533AE', text: 'Level 2:  Camera Movements', type: 'filmmaking'}
-
 61: {activityid: '621A65AE-8858-4D23-9638-C31E02532D29', text: 'Level 2:  Music Genres', type: 'music'}
-
 62: {activityid: '3B962A91-1C2A-41E9-AB79-14B8ADB2B037', text: ' Game Engines', type: 'game-development'}
-
 63: {activityid: '543FE7BB-DF56-44D5-A7E6-A2DA8CEB413D', text: ' Express Your Musicality', type: 'music'}
-
 64: {activityid: 'EBFFF80F-C42D-4937-A29E-55A7700300D0', text: 'Level 1:  Song Structure ', type: 'music'}
-
 65: {activityid: 'AADA9132-D4D9-446B-B0D0-2D6DDCC94399', text: 'Level 1:  The Principles of Animation ', type: 'animation'}
-
 66: {activityid: '7DD11F01-9103-43AC-919C-96B41D70558B', text: 'Level 1:  Timing and Spacing', type: 'animation'}
-
 67: {activityid: '0AC95BC5-2D88-4614-94C9-A7D3E8BD373E', text: 'Level 2:  Responsive Web Design and Bootstrap', type: 'web-development'}
-
 68: {activityid: 'F09F5EE3-52DD-420A-9298-4DD0A635A2FA', text: 'Level 1:  3D Puzzle', type: '3d-modeling'}
-
 69: {activityid: '1A440301-87C0-4D87-9E70-4C32DC785EE0', text: 'Level 1:  2D Animation: The Creative Process', type: 'animation'}
-
 70: {activityid: 'DF9C4508-F0BF-4E7B-9C02-0A8057A57BFD', text: ' 3D Primitives ', type: '3d-modeling'}
-
 71: {activityid: 'A47FCFEF-C9BF-47E1-AE81-D4D27BDEDFB6', text: ' Textures', type: 'game-development'}
-
 72: {activityid: 'B27C4076-A5A8-47B9-89EB-0F5CD30BF953', text: 'Level 1:  JavaScript Math is Weird', type: 'programming'}
-
 73: {activityid: 'E21F2AE4-AA12-4BF5-92B7-CFFDA95BC226', text: ' Timing in JavaScript', type: 'programming'}
-
 74: {activityid: '4CB2AB94-010B-4BA3-892E-B513775BDB24', text: ' 3-Act Structure', type: 'writing'}
-
 75: {activityid: 'CE564C06-62AC-462D-B1FF-ED1888B7C9F2', text: " What's a Robot?", type: 'robotics'}
-
 76: {activityid: '66B116A2-6334-41CD-BEA1-9BBA8272B030', text: 'Level 1:  Polygon: Behind the 3D Model', type: '3d-modeling'}
-
 77: {activityid: '639C88E1-A86A-4B7F-90D7-09B4D2733760', text: ' Arcs', type: 'animation'}
-
 78: {activityid: 'EA3DD661-F166-44CE-80AE-04AE9FB3B4E1', text: ' Stop Motion Animation', type: 'animation'}
-
 79: {activityid: 'DD5F839B-FEE0-42B1-A6AA-7DED913DDB79', text: 'Level 1:  What is a Screenplay?', type: 'writing'}
-
 80: {activityid: 'B1177A46-BC4B-4CB9-937D-485F649457F4', text: ' Photography Today', type: 'photography'}
-
 81: {activityid: '16066E81-F8EA-423F-8503-FE7D45C64CDC', text: ' Platform Games', type: 'game-development'}
-
 82: {activityid: 'C195A0D0-B428-44F9-83AD-FEB4A3D803F7', text: ' Flipbooks', type: 'animation'}
-
 83: {activityid: 'E54FD6C4-CE88-4F48-A4A4-C9DA2E98906C', text: ' Movie Magic', type: 'filmmaking'}
-
 84: {activityid: '93051D85-5B10-4D34-B20F-7E37B16CE440', text: ' Elements of Programming', type: 'programming'}
-
 85: {activityid: 'DD82C02B-4E96-4F27-82C6-EC1E75CAFFFA', text: ' What is HTML?', type: 'web-development'}
-
 86: {activityid: 'D1EA1F4C-188B-4ADB-BBEE-6F0752EA8948', text: 'Level 1:  Falling Bananas: The Beginning', type: 'robotics'}
-
 87: {activityid: '55B1FE3D-CFAF-46A4-8C84-A6FC1ED275A1', text: 'Level 1:  Falling Bananas: The Middle', type: 'robotics'}
-
 88: {activityid: '69A15A27-62F3-4D92-9508-1466BEBB59A5', text: 'Level 1:  HTML - The Foundation of the Web', type: 'web-development'}
-
 89: {activityid: '7C71CA03-429F-459A-A9BB-DF377DE2223C', text: 'Level 1:  CSS - Giving the Web Some Style', type: 'web-development'}
-
 90: {activityid: '3A4C458E-A753-479B-A883-C1948EFC1C48', text: 'Level 1:  Falling Bananas: The End', type: 'robotics'}
-
 91: {activityid: '2CC392AF-3718-408D-9F0E-D0D8EFDE30AD', text: 'Level 2:  Visual Text', type: 'graphic-design'}
-
 92: {activityid: '0EDB4727-0A7A-4909-92D4-48CA4D2931DF', text: ' Signs and Symbols', type: 'graphic-design'}
-
 93: {activityid: '67FB2395-B3D2-4208-91A9-7F1A75AB9103', text: 'Level 1:  Storytelling Through Storyboards', type: 'filmmaking'}
-
 94: {activityid: '67B8A4B6-7E94-4CC1-BF4F-68B229DE9686', text: 'Level 1:  Drawing a Body', type: 'drawing'}
-
 95: {activityid: '2493E391-594F-4581-A87E-13AB68F73E2F', text: 'Level 1:  Poster Design', type: 'graphic-design'}
-
 96: {activityid: '2A3721AB-C32E-4C4C-A88A-327F352770D5', text: ' Elements of Filmmaking', type: 'filmmaking'}
-
 97: {activityid: '79B76D25-E364-4642-9784-F5EF0F5E3141', text: 'Level 1:  Level Design: Prototype', type: 'game-development'}
-
 98: {activityid: '7563BEC9-8163-45CC-98FB-B78654D7E6F6', text: ' Design in Motion', type: 'motion-graphics'}
-
 99: {activityid: '49F42E4E-FC0B-41DC-AFC9-A83C0CD41B70', text: ' Working with HTML Elements Part 1', type: 'web-development'}
-
 100: {activityid: '3FA37113-1E64-4D85-87A2-31C0CA1D349A', text: 'Level 1:  Elements of Music', type: 'music'}
-
 101: {activityid: '7F303C4F-47C2-402B-A0B4-B640E578FCF1', text: ' Working with HTML Elements Part 2', type: 'web-development'}
-
 102: {activityid: '11615E96-1BAF-497F-AE1D-CBC1EAB7063A', text: 'Level 1:  Pattern Design', type: 'graphic-design'}
-
 103: {activityid: '1E08BA8B-1DFE-4870-912C-8B3CBEFCB246', text: 'Level 1:  Programming Basics with JavaScript', type: 'programming'}
-
 104: {activityid: '789150D1-6C2E-4819-87C2-14C5652C9D68', text: 'Level 1:  Movie Genres', type: 'filmmaking'}
-
 105: {activityid: 'A198A6E6-94D6-4C06-B078-CC75C31F7199', text: 'Level 1:  3D Modeling Basics', type: '3d-modeling'}
-
 106: {activityid: '536BD925-F870-4901-92E2-5452437F45E8', text: 'Level 1:  JavaScript: Control Flow', type: 'programming'}
-
 107: {activityid: 'F2F1D4B1-EBDD-41E6-A8B3-8C9D1727C22C', text: 'Level 1:  Vectors', type: 'graphic-design'}
-
 108: {activityid: '9BC5CB3C-8F6F-495A-8C76-90E8CBED7AE1', text: ' Imagination Animation', type: 'animation'}
-
 109: {activityid: '57E0F3D9-E554-4B2D-9046-57807192E545', text: ' Shapes of a Character', type: 'drawing'}
-
 110: {activityid: '475BE457-4857-44BC-A0A1-01240DA47864', text: ' 3D World', type: '3d-modeling'}
-
 111: {activityid: '38BC904E-027D-4BB5-8AFC-183BE277ADF8', text: ' Falling Bananas: The Sequel', type: 'robotics'}
-
 112: {activityid: 'BA189311-48D6-4229-80D1-C6B2CAA5C8F0', text: 'Level 1:  The Photo Camera', type: 'photography'}
-
 113: {activityid: '29E593D1-6CEE-4352-B3CA-1278874F6E0A', text: ' Photography Postproduction', type: 'photography'}
-
 114: {activityid: 'EAB56A44-3E31-48E3-BF37-A62985815ACB', text: ' Smile for the Camera', type: 'photography'}
-
 115: {activityid: 'F1231C83-58AE-4211-8F41-DD1222B451CE', text: ' Image Formats', type: 'photography'}
-
 116: {activityid: 'A723A171-2480-4242-B49F-D99373FB29BD', text: ' Secrets of Sound Engineers', type: 'music'}
-
 117: {activityid: '7DA30121-0FD4-4393-B26B-901E597B3B4F', text: 'Level 1:  Staging, Blocking & Camera', type: 'filmmaking'}
-
 118: {activityid: '74D9FDE6-D287-407E-84A7-CD85005603F9', text: 'Level 2:  Shots and Composition', type: 'filmmaking'}
-
 119: {activityid: 'BDFA4F5F-AF8C-43D7-B7FB-FE5D7A6EEF68', text: 'Level 1:  Lighting for Games', type: 'game-development'}
-
 120: {activityid: '40599BD4-517D-4529-B318-37863E110BEB', text: 'Level 1:  Mood in Games', type: 'game-development'}
-
 121: {activityid: 'FB31EE38-5D62-4E63-AB46-BB33C0238591', text: ' Designing Icons', type: 'graphic-design'}
-
 122: {activityid: '777D3DAC-BF8F-4922-9DF9-D2A79A56296D', text: ' Art of Sampling', type: 'music'}
-
 123: {activityid: '2BD179DD-EC98-4240-B775-734F0137DB87', text: 'Level 1:  Time Signature', type: 'music'}
-
 124: {activityid: '9B256FE0-2F85-4EAD-9AF7-E7CED4242348', text: ' Make Mine Music', type: 'music'}
-
 125: {activityid: '736AD6C0-3A90-4E35-A879-9F9A7CE2183F', text: ' Flowcharts & Algorithms', type: 'programming'}
-
 126: {activityid: '5E1A5A42-582B-4288-B441-8C7C6DFF5D2C', text: 'Level 2:  p5.js Library', type: 'programming'}
-
 127: {activityid: '2F89BBAD-698E-45ED-91FD-D63A84D7776D', text: 'Level 2:  Matrix.js', type: 'programming'}
-
 128: {activityid: '4E5E7666-6121-4F6B-9D73-9FB3086105C6', text: ' Error Types', type: 'programming'}
-
 129: {activityid: '35BB85B4-3B26-48CC-B4CC-5D39B093ABC9', text: 'Level 2:  Basics of HTML and CSS', type: 'programming'}
-
 130: {activityid: 'D3625DE0-FE36-45FD-AEDE-DFCDF8E869D4', text: ' Javascript + DOM', type: 'programming'}
-
 131: {activityid: 'DBB092D5-1F14-41DE-87D9-ADE144CC461A', text: ' Event-driven Programming', type: 'programming'}
-
 132: {activityid: 'FC03C875-7F03-4477-AFE8-54068EFF6D88', text: 'Level 2:  Notes, Scales, Chords', type: 'music'}
-
 133: {activityid: '2F0CED83-F599-44F9-9B06-3C265F4AFEA2', text: ' Mix Balance', type: 'music'}
-
 134: {activityid: 'DBABB363-1D28-4C2F-8919-CE74BE12A188', text: 'Level 2:  Consonance & Dissonance', type: 'music'}
-
 135: {activityid: 'D53652D9-02F3-48B1-87B7-F9AD71F055DA', text: 'Level 2:  Script to Screen', type: 'filmmaking'}
-
 136: {activityid: '834B8711-4F43-4131-B170-3291224E3273', text: 'Level 2:  Color in Film', type: 'filmmaking'}
-
 137: {activityid: '9CB94B38-AB75-43E5-A7FC-5D8AC73F4515', text: ' Image Editor', type: 'programming'}
-
 138: {activityid: '804F7049-BD35-4E7A-BFC9-6C3269AB15A5', text: ' Construct a Font', type: 'graphic-design'}
-
 139: {activityid: '3B171ECC-6573-4E0B-BD55-0B36BEAC3738', text: ' Construct a Brush', type: 'programming'}
-
 140: {activityid: '2F2B1699-2645-4283-823A-640FCA6AC8CA', text: ' G Suite', type: 'programming'}
-
 141: {activityid: '65794F9D-97E2-475C-9BA7-4C08DE4B01E7', text: ' Words, Words, Words', type: 'writing'}
-
 142: {activityid: 'AA174B22-5238-4DC6-9189-97FEC8C39DE3', text: ' Wrapping Up Your Onboarding', type: 'programming'}
